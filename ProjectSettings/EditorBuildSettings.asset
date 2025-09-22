@@ -189,6 +189,8 @@ EditorBuildSettings:
     path: Assets/Scenes/Meta/MetaSharedAnchors.unity
     guid: 378abe601e1ed4f21b730a80c6caead9
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a03ce5cd1dde9684aab5da4411be9400,
+      type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: c52d3bb36b4c86f47af54ab9c7a02589,
       type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f8ce26fe3bc69499b9be4b2378e97a94,
